@@ -1,0 +1,1 @@
+web: gunicorn gymkyiv.wsgi --log-file -
